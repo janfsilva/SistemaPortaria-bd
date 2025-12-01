@@ -9,17 +9,17 @@ O projeto implementa, em SQLite, o banco de dados de um sistema de controle de a
 
 # 📦 Estrutura do Repositório 
 
-   portaria-db/
-│
-├── 📄 script_completo.sql
-│
-├── 📁 sql/
-│   ├── 📄 01_create_tables.sql
-│   ├── 📄 02_insert_exemplos.sql
-│   ├── 📄 03_select_consultas.sql
-│   └── 📄 04_update_delete.sql
-│
-└── 📁 docs/
+    portaria-db/
+    │
+    ├── 📄 script_completo.sql
+    │
+    ├── 📁 sql/
+    │   ├── 📄 01_create_tables.sql
+    │   ├── 📄 02_insert_exemplos.sql
+    │   ├── 📄 03_select_consultas.sql
+    │   └── 📄 04_update_delete.sql
+    │
+    └── 📁 docs/
     ├── 📁 prints/        (prints reais do SQLiteStudio)
     └── 📁 diagramas/     (opcional)
 
