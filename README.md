@@ -1,9 +1,10 @@
 # EP4 – Sistema de Controle de Acesso da Portaria (SQLite)
 
-Este repositório contém os scripts desenvolvidos para a **Experiência Prática 4** da disciplina  
-**Modelagem de Banco de Dados** – Curso: *Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)*.
+Este projeto implementa, em SQLite, o banco de dados de um sistema de controle de portaria, projetado conforme as etapas formais da engenharia de banco de dados.
 
-O projeto implementa, em SQLite, o banco de dados de um sistema de controle de acesso para a portaria de um condomínio residencial, incluindo criação, povoamento, consultas e manipulação de dados.
+O modelo foi desenvolvido a partir da análise de um minimundo realista, passando pela modelagem conceitual (DER), refinamentos estruturais, normalização (1FN, 2FN e 3FN), derivação do modelo lógico e implementação final do esquema relacional.
+
+O sistema oferece suporte à gestão de moradores, visitantes, autorizações, agendamentos, veículos, sessões de acesso e eventos detalhados, promovendo integridade, confiabilidade e rastreabilidade das operações realizadas na portaria do condomínio.
 
 ---
 
